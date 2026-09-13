@@ -1,0 +1,140 @@
+
+
+.title {
+    font-size: 44px;
+    font-weight: italic;
+    font-family: cursive;
+    color: #5f1313;
+    background-color: transparent;
+}
+
+body {
+    
+    background-size: cover;
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    justify-content: center;
+    overflow: auto;
+}
+
+.contenedor1 {
+    align-items: left;
+    background-color: transparent;
+    border-radius: 1px;
+    padding: 1px;
+    text-align: right;
+    width: 100%;
+}
+
+button {
+    background-color: transparent;
+    color: #5f1313;
+    border: none;
+    cursor: pointer;
+    font-size: 30px;
+    font-weight: cursive;
+    font-family: cursive;
+    margin: 1px;
+    padding: 1px 20px;
+    transition: background-color 0.2s ease;
+    width: 210px;
+}
+
+.boton1 {
+    background-color: transparent;
+    border: none;
+    border-radius: 10px;
+    color: #5f1313;
+    cursor: pointer;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: cursive;
+    margin: 1px;
+    padding: 1px 20px;
+    transition: background-color 0.4s ease;
+    width: 210px;
+}
+
+.boton2 {
+    color: #f7f4f4;
+    background-color: #5f1313;
+    border-radius: 50%;
+}
+
+.contenedor2 {
+    background-color: transparent;
+    border-radius: 1;
+}
+
+.contenedor2 h1 {
+    color: #5f1313;
+    background-color:transparent;
+}
+
+.contenedor2 h2{
+    color: #5f1313;
+    background-color: #f4f1f1;
+}
+
+.contenedor3 {
+    width: 1510px;
+    align-items: center;
+    background-color: #f9faf8;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #2f0404;
+    text-align: justify;
+    opacity: 0.7;
+    border-radius: 20px;
+}
+
+.contenedor3 h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #5f1313;
+    background-color: transparent;
+    border: 0px;
+    gap: 10;
+    margin-bottom:0% ;
+    margin-top: 0%;
+} 
+
+.contenedor10 h1{
+    color:#5f1313;
+}
+.contenedor11{
+    display:flex;
+}
+
+.contenedor6 h2{
+    color:azure;
+}
+.boton3{
+    font-size: 30px;
+    font-family: cursive;
+    background-color: azure;
+    border-radius: 50%;
+}
+
+.boton4 {
+    color:azure;
+    font-size: 30px;
+    background-color: #5f1313;
+    border-radius: 50%;
+}
+
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+    background-color: #5f1313;
+    opacity: 0.7;
+    color: azure;
+}
+
+
